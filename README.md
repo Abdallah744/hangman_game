@@ -27,7 +27,7 @@ A beautiful and interactive Hangman game built with Flutter. Test your vocabular
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hangman_game.git
+   git clone https://github.com/Abdallah744/hangman_game.git
    cd hangman_game
    ```
 
@@ -59,7 +59,7 @@ A beautiful and interactive Hangman game built with Flutter. Test your vocabular
 
 ## License
 
-Copyright © 2025 Your Name. All rights reserved.
+Copyright © 2025 Abdallah Salah. All rights reserved.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
